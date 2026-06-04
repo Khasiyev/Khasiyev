@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+[![github-header-banner.png](https://i.postimg.cc/fTqSV09f/github-header-banner.png)](https://postimg.cc/GHYmNtz4)
 <h1 align="center">Hi 👋, I'm Huseyn Khasiyev</h1>
 <h3 align="center">A passionate Backend developer from Azerbaijan</h3>
 
